@@ -1,2 +1,5 @@
+# binary blobs
 *.*/
+
+# API keys and other secret things
 *.json
